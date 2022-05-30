@@ -1,0 +1,10 @@
+.animatedBut i {
+  transition: all .5s !important;
+}
+
+.animatedBut:hover i {
+  transform: translate(-6px) !important;
+}
+:host{
+  display: block;
+}
